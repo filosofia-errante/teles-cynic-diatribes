@@ -1,11 +1,10 @@
 [book]
+title = "Teles: The Cynic Teacher"
 authors = ["Teles the Cynic"]
 language = "en"
-multilingual = false
 src = "src"
-title = "Teles: The Cynic Teacher"
 
 [output.html]
 git-repository-url = "https://github.com/filosofia-errante/teles-cynic-diatribes"
 site-url = "/teles-cynic-diatribes/"
-cname = false
+
